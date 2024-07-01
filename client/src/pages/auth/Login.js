@@ -55,7 +55,7 @@ const Login = () => {
   };
   const handleRecruiterSubmit = (e)=>{
     e.preventDefault()
-    setEmail('arslanjajja13@gmail.com')
+    setEmail('email@gmail.com')
     setPassword('password')
   }
   const handleSubmit = async (e) => {

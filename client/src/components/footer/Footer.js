@@ -138,9 +138,8 @@ const Footer = () => {
           © 2023 Copyright :
           <a
             className="text-white ml-1"
-            href="https://www.youtube.com/@arslancodecorner"
           >
-            Arslan Haroon
+            Fida Mohammad
           </a>
         </div>
         {/* <!-- Copyright --> */}

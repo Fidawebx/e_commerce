@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"  },
-  "author": "Arslan jajja",
+  "author": "Fida",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.0",
